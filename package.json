@@ -26,6 +26,6 @@
   "license": "MIT",
   "dependencies": {
     "extend-shallow": "^2.0.1",
-    "mold-template": "^1.0.0"
+    "mold-template": "^2.0.0"
   }
 }
