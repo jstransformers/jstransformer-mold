@@ -4,7 +4,7 @@
     "mold-template": "^2.0.0"
   },
   "name": "jstransformer-mold",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "Mold support for JSTransformers.",
   "keywords": [
     "jstransformer"
