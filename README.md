@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # jstransformer-mold
 
 [Mold](https://github.com/marijnh/mold) support for [JSTransformers](http://github.com/jstransformers).
