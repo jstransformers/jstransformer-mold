@@ -1,6 +1,5 @@
 {
   "dependencies": {
-    "extend-shallow": "^2.0.1",
     "mold-template": "^2.0.0"
   },
   "name": "jstransformer-mold",

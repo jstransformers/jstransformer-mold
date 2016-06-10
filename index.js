@@ -1,7 +1,6 @@
 'use strict';
 
 var Mold = require('mold-template');
-var extend = require('extend-shallow');
 
 exports.name = 'mold';
 exports.outputFormat = 'html';
