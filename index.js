@@ -1,11 +1,11 @@
-'use strict';
+'use strict'
 
-var Mold = require('mold-template');
+var Mold = require('mold-template')
 
-exports.name = 'mold';
-exports.outputFormat = 'html';
+exports.name = 'mold'
+exports.outputFormat = 'html'
 
 exports.compile = function (str, options) {
-  var mold = new Mold(options);
-  return mold.bake(str, str);
-};
+  var mold = new Mold(options)
+  return mold.bake(str, str)
+}
