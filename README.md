@@ -1,5 +1,7 @@
 # jstransformer-mold
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/jstransformers/jstransformer-mold.svg)](https://greenkeeper.io/)
+
 [Mold](https://github.com/marijnh/mold) support for [JSTransformers](http://github.com/jstransformers).
 
 [![Build Status](https://img.shields.io/travis/jstransformers/jstransformer-mold/master.svg)](https://travis-ci.org/jstransformers/jstransformer-mold)
