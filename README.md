@@ -15,7 +15,7 @@
 ## API
 
 ```js
-var mold = require('jstransformer')(require('jstransformer-mold'));
+var mold = require('jstransformer')(require('jstransformer-mold'))
 
 mold.render('Hello, <?name ?>!', { name: 'World' }).body
 //=> 'Hello, World!'
